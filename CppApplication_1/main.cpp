@@ -14,7 +14,7 @@
 #include <cstdlib>
 
 using namespace std;
-//test code
+//test code is tested.
 
 /*
  * 
