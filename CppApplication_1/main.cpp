@@ -6,7 +6,7 @@
 
 /* 
  * File:   main.cpp
- * Author: gankur
+ * Author: gankur - home
  *
  * Created on July 27, 2016, 11:45 AM
  */
@@ -15,6 +15,7 @@
 
 using namespace std;
 //test code is tested.
+//On second computer
 
 /*
  * 
